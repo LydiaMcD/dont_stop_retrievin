@@ -24,14 +24,19 @@ navbar {
   overflow: hidden;
   position: fixed;
   bottom: 0;
-  width: 100%;
+  width: 110%;
 }
 navbar a.active {
   background-color: #4CAF50;
   color: white;
 }
 
+
 #wrapper, img{
     width:100%;
     height: 100%;
+}
+
+#adoption li {
+    list-style-type: none;
 }
