@@ -37,6 +37,6 @@ navbar a.active {
     height: 100%;
 }
 
-#adoption li {
-    list-style-type: none;
+html {
+  background-color: #a6babf;
 }
